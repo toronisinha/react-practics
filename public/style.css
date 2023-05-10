@@ -1,0 +1,110 @@
+* {
+    margin: 0px;
+    padding: 0px;
+}
+
+.headerStyle {
+    text-align: center;
+    background-color: rgb(226, 245, 204);
+    padding: 15px;
+    color: rgb(179, 126, 28);
+}
+
+.card {
+    background-color: bisque;
+    padding: 20px;
+    margin: 10px;
+    box-shadow: 2px 4px 4px red;
+    width: 300px;
+}
+
+.cardTittle {
+    text-align: center;
+    margin-bottom: 10px;
+    color: rgb(83, 22, 181);
+}
+
+.cardBody {
+    text-align: center;
+    margin-bottom: 12px;
+}
+
+.cardFotter {
+    text-align: center;
+    text-shadow: 4cm;
+}
+
+.success {
+    background-color: aquamarine;
+    padding: 3px;
+    margin: 5px;
+}
+
+.section1 {
+    background-color: rgb(38, 203, 184);
+    text-align: center;
+    padding: 20px;
+}
+
+.block_container {
+    background-color: azure;
+    text-align: center;
+    display: flex;
+    justify-content: center;
+}
+
+.block_container2 {
+
+    text-align: center;
+    display: flex;
+    justify-content: center;
+}
+
+.block_container3 {
+    background-color: rgb(241, 252, 242);
+    padding: 20px;
+    margin-top: 3px;
+    text-align: center;
+    width: 100%;
+    height: 60vh;
+
+}
+
+.bgColor {
+    background-color: rgb(223, 225, 225);
+    padding: 30px;
+}
+
+.formStyle {
+    margin-bottom: 5px;
+}
+
+.leftsection {
+    width: 40%;
+    display: inline;
+}
+
+.rightsection {
+    width: 40%;
+    display: inline;
+}
+
+
+.true {
+    background-color: rgb(226, 16, 114);
+}
+
+.false {
+    background-color: white;
+}
+
+.todos {
+    display: grid;
+    grid-template-columns: repeat(3, minmax(0, 1fr));
+    gap: 1rem;
+}
+
+.todo {
+    background-color: antiquewhite;
+    padding: 0.5rem;
+}

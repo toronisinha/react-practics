@@ -1,0 +1,26 @@
+class component er jonno 4 ta jinis mone rakhte hobe
+
+1. import React, er sathe {component} keo imporet korte hobe
+2. obossoi component ke extends korte hobe
+   class component_name extends component(){}
+3 render(){
+ 	return korte hobe
+}
+4. export korte hobe
+
+// class componet e props autometically chole ase ebong etake likhte hoy
+		this.props.title ba etc
+
+sortcurt technik::::
+
+rfc  dilei function component cile asbe
+rcc  class component
+rconst  create constractor
+refce 
+
+
+state.........................................
+props er motoi but props er value change kora jay na state er jay
+
+state er khetre obossoi constructor use korte hobe ebong er vitore state er joto variable ache ta dite hobe
+setState({}) eta use korte hobe ebong this.state use korte hobe
